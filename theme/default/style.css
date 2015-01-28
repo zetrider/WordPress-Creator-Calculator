@@ -1,0 +1,230 @@
+.wpcc_clear {
+	clear: both;
+}
+
+.wpcc {
+	width: 100%;
+	height: auto;
+	padding: 5px;
+}
+.wpcc img {
+	border: 0px;
+	max-width: 100%;
+	height: auto;
+}
+.wpcc, .wpcc * {
+	position: relative;
+	-moz-box-sizing: border-box; 
+	-opera-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	-khtml-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+.wpcc_form {
+	width: inherit;
+} 
+.wpcc_form .wpcc_box {
+	width: inherit;
+	margin: 0 0 10px 0;
+}
+.wpcc_form .wpcc_description {
+	width: inherit;
+	font-size: 16px;
+	margin: 0 0 5px 0;
+}
+.wpcc_form .wpcc_description_empty {
+	display: none;
+}
+.wpcc_form .wpcc_fields {
+	width: inherit;
+}
+
+.wpcc_form .wpcc_text {
+	
+}
+.wpcc_form .wpcc_select {
+	width: 100%;
+}
+.wpcc_form .wpcc_checkbox {
+	
+}
+.wpcc_form .wpcc_checkbox label {
+	display: block;
+}
+.wpcc_form .wpcc_checkbox .images {
+
+}
+.wpcc_form .wpcc_radio {
+
+}
+.wpcc_form .wpcc_radio label {
+	display: block;
+}
+.wpcc_form .wpcc_radio .images {
+
+}
+.wpcc_form .wpcc_inputtext {
+	width: 100%;
+}
+.wpcc_form .wpcc_custom_fields  {
+	width: 100%;
+}
+
+.wpcc_form .wpcc_fields_date,
+.wpcc_form .wpcc_date {
+	height: 20px;
+}
+.wpcc_form .wpcc_fields_date .wpcc_inputdisabled {
+	display: block;
+	float: left;
+	width: 150px;
+	background-color: #F0F0F0;
+}
+.wpcc_form .wpcc_fields_date img {
+	display: block;
+	cursor: pointer;
+	float: left;
+	margin: 7px 0 0 10px
+}
+
+/* Slider */
+.wpcc_form .wpcc_jq_slider {
+	width: inherit;
+}
+.wpcc_form .wpcc_jq_slider_box {
+	width: inherit;
+}
+.wpcc_form .wpcc_jq_slider_text {
+	width: 80px;
+	height: 20px;
+	font-size: 12px;
+	padding: 0 5px 0 5px;
+	line-height: 20px;
+	border: 1px #ccc solid;
+}
+.wpcc_form .wpcc_jq_slider_horizontal .wpcc_jq_slider_text {
+	position: absolute;
+	right: 0;
+	bottom: 5px;
+}
+.wpcc_form .wpcc_jq_slider_horizontal {
+	width: 90%;
+	padding: 20px 0 40px 0;
+}
+.wpcc_form .wpcc_jq_slider_vertical {
+	width: 250px;
+	margin: 20px 0 20px 0;
+}
+
+.wpcc_form .ui-slider-horizontal {
+	height: 7px;
+	float: right;
+	position: relative;
+	text-align: left;
+	background-color: transparent;
+	background-image: url('images/slider/scroll_circle_bg_w.png');
+	background-repeat: repeat-x;
+}
+.wpcc_form .ui-slider-vertical {
+	width: 7px;
+	height: 150px;
+	float: left;
+	margin: 0 10px 10px 10px;
+	position: relative;
+	background-color: transparent;
+	background-image: url('images/slider/scroll_circle_bg_h.png');
+	background-repeat: repeat-y;
+}
+.wpcc_form .ui-slider-range {
+	left: 0px;
+	position: absolute;
+	z-index: 1;
+	display: block;
+	border: 0;
+	background-color: transparent;
+}
+.wpcc_form .ui-slider-horizontal .ui-slider-range {
+	height: 7px;
+	background-image: url('images/slider/scroll_circle_bg_w_active.png');
+	background-repeat: repeat-x;
+	top: 0px;
+}
+.wpcc_form .ui-slider-vertical .ui-slider-range {
+	width: 7px;
+	background-image: url('images/slider/scroll_circle_bg_h_active.png');
+	background-repeat: repeat-y;
+	bottom: 0px;
+}
+.wpcc_form .ui-slider-handle {
+	width: 18px;
+	height: 20px;
+	position: absolute;
+	z-index: 1;
+	border: 0px;
+	cursor: default;
+	background-color: transparent;
+	background-image: url('images/slider/scroll_circle.png');
+	background-repeat: no-repeat;
+}
+.wpcc_form .ui-slider-horizontal .ui-slider-handle {
+	top: -5px;
+}
+.wpcc_form .ui-slider-vertical .ui-slider-handle {
+	left: -5px;
+}
+
+.wpcc_form .wpcc_submit {
+
+}
+
+.wpcc_result_block {
+	padding: 20px 0 20px 0;
+}
+.wpcc_result_block .wpcc_result {
+	
+}
+
+.wpcc .wpcc_mail {
+	width: 100%;
+}
+.wpcc .wpcc_text {
+
+}
+.wpcc .wpcc_mail .input {
+	width: 100%;
+}
+.wpcc .wpcc_mail .textarea {
+	width: 100%;
+}
+.wpcc .wpcc_mail .wpcc_submit {
+
+}
+.wpcc .wpcc_mail_success {
+
+}
+.wpcc .wpcc_error {
+	color: red;
+}
+.wpcc .wpcc_error p {
+	margin: 0px;
+}
+
+.wpcc_loading {
+	width: 16px;
+	height: 16px;
+	float: right;
+	margin: 10px;
+}
+.wpcc_loading div {
+	width: 16px;
+	height: 16px;
+	display: none;
+	background-image: url('images/loading.gif');
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+/* Widget */
+.wpcc_widget {
+	
+}

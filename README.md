@@ -1,4 +1,6 @@
 WordPress-Creator-Calculator
 ============================
 
-WordPress Plugin Calculator
+Временно плагин не поддерживается.
+
+Инструкции по работе с плагином на сайте: http://zetrider.ru/

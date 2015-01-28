@@ -1,0 +1,278 @@
+.wpcc_clear {
+	clear: both;
+}
+
+.wpcc {
+	width: 100%;
+	height: auto;
+	padding: 5px;
+}
+.wpcc img {
+	border: 0px;
+	max-width: 100%;
+	height: auto;
+}
+.wpcc, .wpcc * {
+	position: relative;
+	-moz-box-sizing: border-box; 
+	-opera-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	-khtml-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+.wpcc_form {
+	width: inherit;
+	border: 1px #ccc solid;
+	background-image: url('images/bg.gif');
+	-moz-border-radius: 4px; 
+	-webkit-border-radius: 4px; 
+	-khtml-border-radius: 4px; 
+	border-radius: 4px; 
+} 
+.wpcc_form .wpcc_box {
+	width: inherit;
+	padding: 10px;
+	margin: 0 0 20px 0;
+	position: relative;
+}
+.wpcc_form .wpcc_description,
+.wpcc_form .wpcc_description_empty {
+	width: 30%;
+	height: inherit;
+	float: left;
+}
+
+.wpcc_form .wpcc_fields {
+	width: 70%;
+	float: right;
+}
+
+.wpcc_form .wpcc_text {
+	
+}
+.wpcc_form .wpcc_select {
+	width: 90%;
+}
+.wpcc_form .wpcc_checkbox {
+	
+}
+.wpcc_form .wpcc_checkbox .images {
+
+}
+.wpcc_form .wpcc_checkbox label {
+	display: block;
+}
+.wpcc_form .wpcc_radio {
+
+}
+.wpcc_form .wpcc_radio .images {
+
+}
+.wpcc_form .wpcc_radio label {
+	display: block;
+}
+.wpcc_form .wpcc_inputtext {
+	width: 90%;
+}
+.wpcc_form .wpcc_custom_fields  {
+	width: 90%;
+}
+
+/* Slider */
+.wpcc_form .wpcc_jq_slider {
+	width: 90%;
+}
+.wpcc_form .wpcc_jq_slider_box {
+	width: 90%;
+}
+.wpcc_form .wpcc_jq_slider_text {
+	width: 80px;
+	height: 20px;
+	font-size: 12px;
+	padding: 0 5px 0 5px;
+	line-height: 20px;
+	border: 1px #ccc solid;
+}
+.wpcc_form .wpcc_jq_slider_horizontal .wpcc_jq_slider_text {
+	position: absolute;
+	right: 0;
+	bottom: 5px;
+}
+.wpcc_form .wpcc_jq_slider_horizontal {
+	width: 70%;
+	padding-bottom: 40px;
+}
+.wpcc_form .wpcc_jq_slider_vertical {
+	width: 70%;
+	margin: 20px 0 20px 0;
+}
+
+.wpcc_form .ui-slider-horizontal {
+	height: 7px;
+	float: right;
+	position: relative;
+	text-align: left;
+	background-color: transparent;
+	background-image: url('images/slider/scroll_circle_bg_w.png');
+	background-repeat: repeat-x;
+}
+.wpcc_form .ui-slider-vertical {
+	width: 7px;
+	height: 150px;
+	float: left;
+	margin: 0 10px 10px 10px;
+	position: relative;
+	background-color: transparent;
+	background-image: url('images/slider/scroll_circle_bg_h.png');
+	background-repeat: repeat-y;
+}
+.wpcc_form .ui-slider-range {
+	left: 0px;
+	position: absolute;
+	z-index: 1;
+	display: block;
+	border: 0;
+	background-color: transparent;
+}
+.wpcc_form .ui-slider-horizontal .ui-slider-range {
+	height: 7px;
+	background-image: url('images/slider/scroll_circle_bg_w_active.png');
+	background-repeat: repeat-x;
+	top: 0px;
+}
+.wpcc_form .ui-slider-vertical .ui-slider-range {
+	width: 7px;
+	background-image: url('images/slider/scroll_circle_bg_h_active.png');
+	background-repeat: repeat-y;
+	bottom: 0px;
+}
+.wpcc_form .ui-slider-handle {
+	width: 18px;
+	height: 20px;
+	position: absolute;
+	z-index: 1;
+	border: 0px;
+	cursor: default;
+	background-color: transparent;
+	background-image: url('images/slider/scroll_circle.png');
+	background-repeat: no-repeat;
+}
+.wpcc_form .ui-slider-horizontal .ui-slider-handle {
+	top: -5px;
+}
+.wpcc_form .ui-slider-vertical .ui-slider-handle {
+	left: -5px;
+}
+
+.wpcc_form .wpcc_submit {
+	border:0;
+	padding: 5px 10px 5px 10px;
+	margin: 10px 0 10px 10px;
+	background-image: url('images/bg.gif');
+	background-color: #fff;
+	font-family: inherit;
+	font-size: 16px;
+	color: #7e7e7e;
+	border: 1px solid #DDD9D9;
+	cursor: pointer;
+}
+.wpcc_form .wpcc_submit:hover {
+	color: #272727;
+}
+
+.wpcc_result_block {
+	padding: 20px 0 20px 0;
+}
+.wpcc_result_block .wpcc_result {
+	width: inherit;
+	margin: 20px 0 20px 0;
+	border: 1px #ccc solid;
+	background-image: url('images/bg.gif');
+	-moz-border-radius: 4px; 
+	-webkit-border-radius: 4px; 
+	-khtml-border-radius: 4px; 
+	border-radius: 4px; 
+	padding: 12px 20px 12px 20px;
+	position: relative;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.wpcc .wpcc_mail {
+	width: inherit;
+	border: 1px #ccc solid;
+	background-image: url('images/bg.gif');
+	-moz-border-radius: 4px; 
+	-webkit-border-radius: 4px; 
+	-khtml-border-radius: 4px; 
+	border-radius: 4px; 
+	padding: 12px 20px 12px 20px;
+	margin: 20px 0 20px 0;
+	position: relative;
+}
+.wpcc .wpcc_text {
+
+}
+.wpcc .wpcc_mail .input {
+	width: 90%;
+	border: 1px #ccc solid;
+	margin: 3px 0 0 0;
+	font-family: inherit;
+	font-size: inherit;
+	padding: 5px 10px 5px 10px;
+}
+.wpcc .wpcc_mail .textarea {
+	width: 90%;
+	height: 100px;
+	border: 1px #ccc solid;
+	margin: 3px 0 0 0;
+	font-family: inherit;
+	font-size: inherit;
+	padding: 5px 10px 5px 10px;
+}
+.wpcc .wpcc_mail .wpcc_submit {
+	border:0;
+	float: none;
+	padding: 5px 10px 5px 10px;
+	font-family: inherit;
+	font-size: 16px;
+	color: #7e7e7e;
+	cursor: pointer;
+	
+	background-color: #fff;
+	border-color: #C9C9C9;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 8px;
+}
+.wpcc .wpcc_mail .wpcc_submit:hover {
+	color: #000;
+}
+
+.wpcc .wpcc_mail_success {
+
+}
+.wpcc .wpcc_error {
+	color: red;
+}
+.wpcc .wpcc_error p {
+	margin: 0px;
+}
+
+.wpcc_loading {
+	width: 16px;
+	height: 16px;
+	float: right;
+	margin: 10px;
+}
+.wpcc_loading div {
+	width: 16px;
+	height: 16px;
+	display: none;
+	background-image: url('images/loading.gif');
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+
+/* Widget */
+.wpcc_widget {
+	
+}

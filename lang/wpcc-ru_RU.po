@@ -1,0 +1,1170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress Creator Calculator v3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-09 10:55+0600\n"
+"PO-Revision-Date: 2014-04-09 10:55+0600\n"
+"Last-Translator: ZetRider <zetrider@bk.ru>\n"
+"Language-Team: TTWeb <ZetRider@bk.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:111
+msgid "Text Block"
+msgstr "Текстовой блок"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:188
+#: ../wp-creator-calculator/wp-creator-calculator.php:490
+#: ../wp-creator-calculator/wp-creator-calculator.php:499
+#: ../wp-creator-calculator/wp-creator-calculator.php:511
+msgid "Date"
+msgstr "Дата"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:235
+msgid "jQuery field"
+msgstr "jQuery поле"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:269
+msgid "Condition"
+msgstr "Условие"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:283
+msgid "Condition Hidden"
+msgstr "Скрытое условие"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:301
+msgid "Arithmetic Function"
+msgstr "Арифметическая функция"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:312
+msgid "Result Fields"
+msgstr "Результат полей"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:328
+msgid "Custom Fields Post"
+msgstr "Произвольные поля поста"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:348
+#: ../wp-creator-calculator/wp-creator-calculator.php:2944
+msgid "Title"
+msgstr "Заголовок"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:349
+msgid "Color"
+msgstr "Цвет"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:350
+msgid "Sign to"
+msgstr "Знаки до"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:351
+msgid "Sign after"
+msgstr "Знаки после"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:352
+msgid "Default"
+msgstr "По умолчанию"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:353
+msgid "Max Char"
+msgstr "Макс. Симв."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:354
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:355
+msgid "Price"
+msgstr "Цена"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:356
+msgid "Action"
+msgstr "Действие с данными"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:357
+#: ../wp-creator-calculator/wp-creator-calculator.php:578
+msgid "Text"
+msgstr "Текст"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:358
+msgid "List"
+msgstr "Список"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:359
+msgid "Field involved in the calculations?"
+msgstr "Поле участвует при расчетах?"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:360
+#: ../wp-creator-calculator/wp-creator-calculator.php:361
+#: ../wp-creator-calculator/wp-creator-calculator.php:362
+msgid "Data"
+msgstr "Данные"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:363
+#: ../wp-creator-calculator/wp-creator-calculator.php:1335
+msgid "Validation"
+msgstr "Валидация"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:364
+msgid "Visually hide a field?"
+msgstr "Визуально скрыть поле?"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:365
+msgid "ID calculator"
+msgstr "ID калькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:366
+msgid "ID field or the sum"
+msgstr "ID поля или sum"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:367
+msgid "ID field"
+msgstr "ID поля"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:368
+msgid "ID fields for comparison"
+msgstr "ID поля для сравнения"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:369
+msgid "The field value for the condition"
+msgstr "Какое значение должно быть у поля для выполнения условия"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:370
+msgid "Which fields are displayed"
+msgstr "Какие поля отображаем"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:371
+msgid "What is hidden"
+msgstr "Какие поля скрываем"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:372
+msgid "IF Operator"
+msgstr "Оператор условия"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:373
+msgid "IF Logic"
+msgstr "Логика условия"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:374
+msgid "What is the function use"
+msgstr "Какую функцию используем"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:375
+msgid "The minimum value of"
+msgstr "Минимальное значение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:376
+msgid "Maximum"
+msgstr "Максимальное значение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:377
+msgid "Step"
+msgstr "Шаг"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:378
+msgid "Position"
+msgstr "Положение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:379
+msgid "ID list of fields separated by commas"
+msgstr "ID полей через запятую"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:380
+msgid "Display in the email body"
+msgstr "Отображать в теле письма"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:381
+msgid "ID post"
+msgstr "ID поста"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:382
+msgid "Custom fields key"
+msgstr "Ключ произвольного поля"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:383
+msgid "Date default"
+msgstr "Дата по умолчанию"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:384
+msgid "Date min"
+msgstr "Минимальная дата"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:385
+msgid "Date max"
+msgstr "Максимальная дата"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:386
+msgid "Delete field"
+msgstr "Удалить поле"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:409
+#: ../wp-creator-calculator/wp-creator-calculator.php:1221
+#: ../wp-creator-calculator/wp-creator-calculator.php:1246
+#: ../wp-creator-calculator/wp-creator-calculator.php:1303
+#: ../wp-creator-calculator/wp-creator-calculator.php:1368
+#: ../wp-creator-calculator/wp-creator-calculator.php:1378
+#: ../wp-creator-calculator/wp-creator-calculator.php:1386
+msgid "Yes"
+msgstr "Да"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:410
+#: ../wp-creator-calculator/wp-creator-calculator.php:419
+#: ../wp-creator-calculator/wp-creator-calculator.php:525
+#: ../wp-creator-calculator/wp-creator-calculator.php:1222
+#: ../wp-creator-calculator/wp-creator-calculator.php:1230
+#: ../wp-creator-calculator/wp-creator-calculator.php:1247
+#: ../wp-creator-calculator/wp-creator-calculator.php:1304
+#: ../wp-creator-calculator/wp-creator-calculator.php:1369
+#: ../wp-creator-calculator/wp-creator-calculator.php:1377
+#: ../wp-creator-calculator/wp-creator-calculator.php:1387
+msgid "No"
+msgstr "Нет"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:420
+msgid "Yes, add display: none"
+msgstr "Да, добавить display: none"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:429
+msgid "The square root of the number sqrt($number)"
+msgstr "Извлекает квадратный корень из числа sqrt($number)"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:430
+msgid "Modular power of pow ($number, $exp)"
+msgstr "Возведение в степень числа pow($number, $exp)"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:431
+#: ../wp-creator-calculator/wp-creator-calculator.php:1602
+msgid "Rounding ROUND() function 0 characters. Example: 4 = 3.7, 3.1 = 3"
+msgstr "Округлять функцией ROUND() 0 знаков. Пример: 3.7 = 4, 3.1 = 3"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:432
+#: ../wp-creator-calculator/wp-creator-calculator.php:1608
+msgid "Rounding function CEIL(). Example: 4 = 3.7, 3.1 = 4"
+msgstr "Округлять функцией CEIL() Пример: 3.7 = 4, 3.1 = 4"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:433
+#: ../wp-creator-calculator/wp-creator-calculator.php:1609
+msgid "Rounding function FLOOR(). Example: 3.7 = 3, 3.1 = 3"
+msgstr "Округлять функцией FLOOR() Пример: 3.7 = 3, 3.1 = 3"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:442
+msgid "Horizontal"
+msgstr "Горизонтально"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:443
+msgid "Vertical"
+msgstr "Вертикально"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:457
+msgid "Between"
+msgstr "Между"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:458
+msgid "Not empty"
+msgstr "Не пустой"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:478
+msgid "Only numbers"
+msgstr "Только цифры"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:479
+msgid "Only numbers and one dot"
+msgstr "Только цифры и одна точка"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:488
+#: ../wp-creator-calculator/wp-creator-calculator.php:509
+msgid "Findings"
+msgstr "Полученные данные"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:489
+#: ../wp-creator-calculator/wp-creator-calculator.php:510
+msgid "Number of characters"
+msgstr "Количество символов"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:500
+msgid "As a string"
+msgstr "Как строка"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:512
+msgid "Number of days"
+msgstr "Количество дней"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:513
+msgid "Day number"
+msgstr "Число дня"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:514
+msgid "Month"
+msgstr "Месяц"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:515
+msgid "Year"
+msgstr "Год"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:524
+msgid "Yes, if the condition is not excluded."
+msgstr "Да, если не исключено условием."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:567
+msgid "Required"
+msgstr "Обязательно!"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:574
+msgid "Add row"
+msgstr "Добавить строку"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:577
+msgid "Value"
+msgstr "Значение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:577
+msgid "Entrance"
+msgstr "Вхождение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:578
+#: ../wp-creator-calculator/wp-creator-calculator.php:746
+msgid "Result"
+msgstr "Результат"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:579
+msgid "Images"
+msgstr "Изображение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:617
+#: ../wp-creator-calculator/wp-creator-calculator.php:618
+#: ../wp-creator-calculator/wp-creator-calculator.php:619
+msgid "+1d +1w +1m +1y"
+msgstr "+1d +1w +1m +1y"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:747
+msgid "$"
+msgstr "руб."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:816
+msgid "Error creating table"
+msgstr "Ошибка создания таблицы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:820
+msgid "The new table"
+msgstr "Новая таблица"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:820
+msgid "successfully created."
+msgstr "успешно создана."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:861
+msgid "Calculate"
+msgstr "Рассчитать"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:870
+msgid "The calculation of the calculator from the user"
+msgstr "Расчет калькулятора от пользователя "
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:874
+msgid "Calculating the cost of site"
+msgstr "Расчет стоимости с сайта"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:875
+msgid "Send an administrator account?"
+msgstr "Отправить расчет администратору?"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:876
+msgid "Thank you! Your payment is sent! We will contact you soon."
+msgstr "Спасибо! Ваш расчет отправлен! Мы свяжемся с Вами в ближайшее время."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:883
+msgid "Calculator added"
+msgstr "Калькулятор добавлен"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:883
+msgid "go to settings"
+msgstr "перейти к настройкам"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:903
+#: ../wp-creator-calculator/wp-creator-calculator.php:1029
+msgid "Action completed"
+msgstr "Выполнено"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:917
+msgid "Calculator deleted"
+msgstr "Калькулятор удален"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1044
+msgid "The field order is saved"
+msgstr "Порядок полей сохранен"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1067
+msgid "Install calculator"
+msgstr "Установить калькулятор"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1072
+msgid "List of calculators"
+msgstr "Список калькуляторов"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1073
+msgid "New calculator"
+msgstr "Новый калькулятор"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1104
+msgid "Deleting records from the database plugin"
+msgstr "Удаление записей плагина из базы данных"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1111
+msgid "<strong>Attention!</strong> These are removed forever!"
+msgstr "<strong>Внимание!</strong> Данные удаляются навсегда!"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1119
+msgid "Data not found."
+msgstr "Данные не найдены."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1131
+#: ../wp-creator-calculator/wp-creator-calculator.php:1141
+msgid "Delete table"
+msgstr "Удалить таблицу"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1131
+msgid "Found the old version of the plugin table"
+msgstr "Найдена таблица старой версии плагина"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1141
+msgid "Found table plugin"
+msgstr "Найдена таблица плагина"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1150
+msgid "Remove all"
+msgstr "Удалить все"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1150
+msgid "Found the following entries in the table"
+msgstr "Найдены следующие записи в таблице"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1167
+msgid "Constructor fields"
+msgstr "Конструктор"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1168
+msgid "Export formula"
+msgstr "Экспорт формулы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1169
+msgid "Import formula"
+msgstr "Импорт формулы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1170
+msgid "Settings"
+msgstr "Настройки"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1173
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1178
+#: ../wp-creator-calculator/wp-creator-calculator.php:1748
+#: ../wp-creator-calculator/wp-creator-calculator.php:2517
+msgid "Name calculator"
+msgstr "Название калькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1180
+msgid "Change"
+msgstr "Изменить"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1210
+msgid "Settings calculator"
+msgstr "Настройка калькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1214
+msgid "Button name"
+msgstr "Название кнопки"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1218
+msgid "Show the results of calculations"
+msgstr "Показывать результаты расчетов"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1227
+msgid "Open calculator by pressing"
+msgstr "Открыть калькулятор при нажатии кнопки"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1241
+msgid "Auto scroll to the result"
+msgstr "Автоматическая прокрутка к результату"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1258
+msgid "Design calculator"
+msgstr "Дизайн калькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1263
+msgid "Standard"
+msgstr "Стандартная"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1264
+msgid "The light from the shadows"
+msgstr "Светлая с тенями"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1265
+msgid "Bulk"
+msgstr "Объемная"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1266
+msgid "Striped"
+msgstr "Полосатая"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1267
+msgid "None theme"
+msgstr "Без темы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1278
+msgid "Disable scripts"
+msgstr "Отключить скрипты"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1283
+msgid "jQuery UI Slider"
+msgstr "jQuery UI Slider"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1284
+msgid "jQuery UI DatePicker"
+msgstr "jQuery UI DatePicker"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1296
+msgid "Setting Mail"
+msgstr "Настройка писем"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1300
+msgid "Enable Send E-Mail"
+msgstr "Включить отправку писем?"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1309
+msgid "Subject"
+msgstr "Тема"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1313
+msgid "For how to send E-Mail"
+msgstr "На какой E-Mail отправлять"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1317
+msgid "Form fields"
+msgstr "Поля формы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1322
+msgid "Hide Name"
+msgstr "Скрыть Имя"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1323
+msgid "Hide Email"
+msgstr "Скрыть Email"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1324
+msgid "Hide Phone"
+msgstr "Скрыть Телефон"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1325
+msgid "Hide Comment"
+msgstr "Скрыть комментарий"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1340
+msgid "Required Name"
+msgstr "Обязательно Имя"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1341
+msgid "Required Email"
+msgstr "Обязательно Email"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1342
+msgid "Required Phone"
+msgstr "Обязательно Телефон"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1343
+msgid "Required Comment"
+msgstr "Обязательно Комментарий"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1353
+msgid "The text of a letter"
+msgstr "Текст в начале письма"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1357
+msgid "The text before sending form"
+msgstr "Текст перед формой отправки"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1361
+msgid "Message sent successfully"
+msgstr "Сообщение об успешной отправке"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1365
+msgid "Show line calculation"
+msgstr "Отображать строку расчета"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1374
+msgid "Allow send copies of the letter to the visitor"
+msgstr "Разрешить отправку копии письма посетителю"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1383
+msgid "Information about the calculator in email"
+msgstr "Информация о калькуляторе в письме"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1397
+msgid "Save"
+msgstr "Сохранить"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1402
+msgid "Remove the database from the plug"
+msgstr "Очистить базу данных от плагина"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1403
+msgid ""
+"If you do not plan to use the plugin and want to completely remove all <br> "
+"database records associated with wpcc, click on this link <a href=\"admin."
+"php?page=wpcc&section=uninstall\"> </ a>. <br> After clicking on the link "
+"will take you to the section for cleaning."
+msgstr ""
+"Если вы больше не планируете пользоваться плагином и хотите полностью "
+"удалить все<br> записи из базы данных связанные с wpcc, нажмите на эту <a "
+"href=\"admin.php?page=wpcc&section=uninstall\">ссылку</a>.<br>После нажатия "
+"на ссылку, вы перейдете в раздел для очистки."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1411
+msgid "Export array formula"
+msgstr "Экспорт массива формулы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1414
+msgid ""
+"Select all the contents of the fields below and export to a new calculator."
+msgstr "Выберите все содержимое поля ниже и экспортируйте в новый калькулятор"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1454
+#: ../wp-creator-calculator/wp-creator-calculator.php:1472
+msgid "Cancel"
+msgstr "Отмена"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1457
+msgid "Your formula is empty"
+msgstr "Формула пуста"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1463
+msgid "Importing an array formula"
+msgstr "Импортировать массив формулы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1466
+msgid "Paste the entire array of data calculator and click the Import button."
+msgstr ""
+"Вставьте весь массив данных калькулятора и нажмите кнопку Импортировать."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1471
+msgid "Import"
+msgstr "Импорт"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1526
+msgid "Import completed"
+msgstr "Импорт завершен"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1542
+#: ../wp-creator-calculator/wp-creator-calculator.php:1750
+msgid "Add"
+msgstr "Добавить"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1545
+msgid "Added fields"
+msgstr "Добавленные поля"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1576
+msgid "Save field values"
+msgstr "Сохранить параметры полей"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1580
+msgid "Sort the order of the fields with the mouse."
+msgstr "Отсортируйте мышкой порядок полей."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1584
+msgid "Save the order of the fields"
+msgstr "Сохранить порядок полей"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1590
+#: ../wp-creator-calculator/wp-creator-calculator.php:1695
+#: ../wp-creator-calculator/wp-creator-calculator.php:2603
+msgid "Formula is empty"
+msgstr "Формула пуста"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1595
+msgid "Manage the results of calculations"
+msgstr "Управление результатами расчета"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1601
+msgid "Do not round"
+msgstr "Не округлять"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1603
+msgid "Rounding ROUND() function 1 character. Example: 3.46 = 3.5"
+msgstr "Округлять функцией ROUND() 1 знак Пример: 3.46 = 3.5"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1604
+msgid "Rounding ROUND() function 2 characters. Example: 3.467 = 3.47"
+msgstr "Округлять функцией ROUND() 2 знака Пример: 3.467 = 3.47"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1605
+msgid "Rounding ROUND() function 3 digits. Example: 3.4678 = 3.468"
+msgstr "Округлять функцией ROUND() 3 знака Пример: 3.4678 = 3.468"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1606
+msgid "Rounding ROUND() function 4 digits. Example: 3.46789 = 3.4679"
+msgstr "Округлять функцией ROUND() 4 знака Пример: 3.46789 = 3.4679"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1607
+msgid "Rounding to the nearest whole number. Example: 346 = 350, 344 = 340"
+msgstr "Округление до целого числа. Пример: 346 = 350, 344 = 340"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1621
+msgid "The main result of the calculation"
+msgstr "Результат расчета основной"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1621
+msgid "The result of calculation "
+msgstr "Результат расчета "
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1625
+#: ../wp-creator-calculator/wp-creator-calculator.php:1654
+msgid "Text before the result"
+msgstr "Текст перед результатом"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1626
+#: ../wp-creator-calculator/wp-creator-calculator.php:1655
+msgid "Text after result"
+msgstr "Текст после результата"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1627
+#: ../wp-creator-calculator/wp-creator-calculator.php:1656
+msgid "Minimum amount"
+msgstr "Минимальная сумма"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1628
+#: ../wp-creator-calculator/wp-creator-calculator.php:1657
+msgid "Arithmetic expression"
+msgstr "Арифметическое выражение"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1629
+#: ../wp-creator-calculator/wp-creator-calculator.php:1658
+msgid "Rounding amount:"
+msgstr "Округлять результат:"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1638
+msgid "Remove the calculation result"
+msgstr "Удалить расчет"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1650
+msgid "Add result of calculation"
+msgstr "Добавить Результат расчета"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1677
+msgid "Save the results of calculations"
+msgstr "Сохранить результаты расчетов"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1681
+msgid "Text formula ID fields"
+msgstr "Текстовая формула ID полей"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1701
+msgid "Preview calculator"
+msgstr "Предпросмотр калькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1715
+msgid "You have not added any calculator"
+msgstr "Вы еще не добавили ни одного кулькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:1728
+msgid "Delete"
+msgstr "Удалить"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2283
+msgid "View the progress of calculation"
+msgstr "Посмотреть ход расчета"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2285
+msgid "Line calculation"
+msgstr "Строка расчета"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2288
+msgid "The data in the current session of the calculator"
+msgstr "Данные в сессии текущего калькулятора"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2290
+msgid "Formula in order of execution"
+msgstr "Формула по порядку выполнения"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2319
+msgid "Your name"
+msgstr "Ваш Имя"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2324
+msgid "Your E-Mail"
+msgstr "Ваш E-Mail"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2329
+msgid "Your Phone"
+msgstr "Ваш Телефон"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2334
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2344
+msgid "Send me a copy."
+msgstr "Отправить мне копию."
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2354
+msgid "Send"
+msgstr "Отправить"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2397
+msgid "Name required field"
+msgstr "Имя обязательное поле"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2401
+msgid "Email required field"
+msgstr "Email  обязательное поле"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2405
+msgid "Phone required field"
+msgstr "Телефон  обязательное поле"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2409
+msgid "Comment required field"
+msgstr "Комментарий обязательное поле"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2420
+msgid "Information about the sender"
+msgstr "Информация об отправителе"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2425
+msgid "Name"
+msgstr "Имя"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2437
+msgid "Phone"
+msgstr "Телефон"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2443
+msgid "Comment"
+msgstr "Комментарий"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2448
+msgid "The calculation"
+msgstr "Расчет"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2495
+msgid "Calculation of the amount"
+msgstr "Расчет суммы"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2518
+msgid "Posted by plugin"
+msgstr "Отправлено при помощи плагина"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2950
+msgid "Calculator"
+msgstr "Калькулятор"
+
+#: ../wp-creator-calculator/wp-creator-calculator.php:2952
+msgid "Select the calculator"
+msgstr "Выбрать калькулатор"
+
+#~ msgid "Day"
+#~ msgstr "День"
+
+#~ msgid "Data amount"
+#~ msgstr "Количество символов"
+
+#~ msgid "Count Day"
+#~ msgstr "Количество дней"
+
+#~ msgid "Default = Today dd-mm-yyyy"
+#~ msgstr "По умолчанию = дата сегодня дд-мм-гггг"
+
+#~ msgid "dd-mm-yyyy"
+#~ msgstr "дд-мм-гггг"
+
+#~ msgid "d-m-Y example: 01-01-1970"
+#~ msgstr "d-m-Y пример: 01-01-1970"
+
+#~ msgid "H:i:s example: 01:01:01"
+#~ msgstr "H:i:s пример: 01:01:01"
+
+#~ msgid "d-m-Y H:i:s example: 01-01-1970 01:01:01"
+#~ msgstr "d-m-Y H:i:s пример: 01-01-1970 01:01:01"
+
+#~ msgid "Field is removed"
+#~ msgstr "Поле удалено"
+
+#~ msgid "Update"
+#~ msgstr "Обновить"
+
+#~ msgid "Line"
+#~ msgstr "Строка"
+
+#~ msgid "If the calculation takes in formula"
+#~ msgstr "Если принимает расчет в формуле"
+
+#~ msgid "Always"
+#~ msgstr "Всегда"
+
+#~ msgid "ID_ROW or sum calc"
+#~ msgstr "ID поля или sum для калькулятора"
+
+#~ msgid "ID fields separated by commas"
+#~ msgstr "ID полей через запятую"
+
+#~ msgid "Calculator display the result"
+#~ msgstr "Отображать результат расчета"
+
+#~ msgid "These are only visible in the backend"
+#~ msgstr "Данные видны только в административной панели"
+
+#~ msgid "function is to cover the field braces!"
+#~ msgstr "функция должна охватывать поля скобками!"
+
+#~ msgid "Action form"
+#~ msgstr "Action формы"
+
+#~ msgid "Excluded from the formula"
+#~ msgstr "Исключить из расчета"
+
+#~ msgid "Condition IF VAL FIELD == VAL USER"
+#~ msgstr "Условие IF VAL Field == Val User"
+
+#~ msgid "What field compare"
+#~ msgstr "Какое поле сравниваем"
+
+#~ msgid "Table previous version completely removed"
+#~ msgstr "Таблица прошлой версии полностью удалена"
+
+#~ msgid "ATTENTION"
+#~ msgstr "ВНИМАНИЕ"
+
+#~ msgid ""
+#~ "Table of the previous version is detected. Since version WPCC 3.5 table "
+#~ "structure calculator reversed!"
+#~ msgstr ""
+#~ "Обнаружена таблица прошлой версии. С версии WPCC 3.5 структура таблицы "
+#~ "калькулятора полностью изменена!"
+
+#~ msgid "You need to fill out a new calculator again."
+#~ msgstr "Вам нужно заполнить новый калькулятор заново."
+
+#~ msgid "Calculators structure filled in the previous version, you can see"
+#~ msgstr ""
+#~ "Структуру калькуляторов заполненых в прошлой версии вы можете посмотреть"
+
+#~ msgid "here"
+#~ msgstr "здесь"
+
+#~ msgid "The previous version"
+#~ msgstr "Прошлая версия"
+
+#~ msgid "Loading Script Plugin"
+#~ msgstr "Загрузка скриптов плагина"
+
+#~ msgid ""
+#~ "In order not to load the plugin scripts on all pages (jquery-ui-core, "
+#~ "jquery-ui-slider, wpcc.js) <br> can specify the ID records and pages "
+#~ "separated by commas in the fields below. <br> Enter 0 if you need to "
+#~ "download scripts on all pages of the site. <br> <b> settings apply to all "
+#~ "calculators </b>"
+#~ msgstr ""
+#~ "Чтобы не загружать скрипты плагина на всех страницах сайта (jquery-ui-"
+#~ "core, jquery-ui-slider, wpcc.js)<br>можно указать ID записей и страниц "
+#~ "через запятую в полях ниже.<br>Укажите 0 если скрипты нужно загружать на "
+#~ "всех страницах сайта. <br><b>Настройки действуют для всех калькуляторов</"
+#~ "b>"
+
+#~ msgid "IDs Posts"
+#~ msgstr "ID Записей"
+
+#~ msgid "Not selected ID calculator."
+#~ msgstr "Не выбран ID калькулятора."
+
+#~ msgid "$_SESSION Field"
+#~ msgstr "$_SESSION поле"
+
+#~ msgid "Logical operator"
+#~ msgstr "Логический оператор"
+
+#~ msgid "Minimalism"
+#~ msgstr "Минимализм"
+
+#~ msgid ""
+#~ "Чтобы не загружать скрипты плагина на всех страницах сайта (jquery-ui-"
+#~ "core, jquery-ui-slider, wpcc.js)<br>можно указать ID записей и страниц "
+#~ "через запятую в полях ниже.<br>Укажите 0 если скрипты нужно загружать на "
+#~ "всех страницах сайта. <br><b>Настройки действует для всех калькуляторов</"
+#~ "b>"
+#~ msgstr ""
+#~ "Чтобы не загружать скрипты плагина на всех страницах сайта (jquery-ui-"
+#~ "core, jquery-ui-slider, wpcc.js)<br>можно указать ID записей и страниц "
+#~ "через запятую в полях ниже.<br>Укажите 0 если скрипты нужно загружать на "
+#~ "всех страницах сайта. <br><b>Настройки действует для всех калькуляторов</"
+#~ "b>"
+
+#~ msgid ""
+#~ "On your site found an older version of the database plug-in, which is not "
+#~ "compatible with version 3.0."
+#~ msgstr ""
+#~ "На Вашем сайте обнаружена база данных старой версии плагина, которая не "
+#~ "совместима с версиями 3.0."
+
+#~ msgid "I rewrote everything, you can delete the old version forever."
+#~ msgstr "Я все переписал, можно удалять старую версию безвозвратно."
+
+#~ msgid "Anonym"
+#~ msgstr "Аноним"
+
+#~ msgid " from "
+#~ msgstr " от "
+
+#~ msgid "You forgot to enter the name of the calculator"
+#~ msgstr "Вы забыли указать имя калькулятора"
+
+#~ msgid ""
+#~ "The name of the calculator can be used only: English characters, Russian "
+#~ "characters, spaces and dashes"
+#~ msgstr ""
+#~ "В названии калькулятор может быть использованы только английские буквы, "
+#~ "русские буквы, пробелы и тире"
+
+#~ msgid "The result: "
+#~ msgstr "Результат: "
+
+#~ msgid "Your Name and Surname"
+#~ msgstr "Ваши Имя и Фамилия"
+
+#~ msgid "You forgot to enter the First Name Last Name"
+#~ msgstr "Вы забыли ввести Имя и Фамилию"
+
+#~ msgid "Too long name and surname! No more than 100 characters"
+#~ msgstr "Слишком длинные Имя и Фамилия! Не более 100 символов"
+
+#~ msgid "Did you forget to include your E-Mail"
+#~ msgstr "Вы забыли указать свой E-mail"
+
+#~ msgid "Incorrectly Set E-Mail. Example email: admin@zetrider.ru"
+#~ msgstr ""
+#~ "Неправильно указан E-Mail. Пример электронной почты: admin@zetrider.ru"
+
+#~ msgid ""
+#~ "Erroneously listed phone number, you can use numbers, spaces, dashes and "
+#~ "brackets"
+#~ msgstr ""
+#~ "Некорректно указан  номер телефона, вы можете использовать цифры, пробел, "
+#~ "тире и скобки"
+
+#~ msgid "Phone is too long! No more than 35 characters."
+#~ msgstr "Телефон слишком длинный! Не более 35 символов."
+
+#~ msgid "Message is too long, not more than 2500 characters!"
+#~ msgstr "Сообщение слишком длинное, не более 2500 символов!"
+
+#~ msgid "proceed to fill the"
+#~ msgstr "перейти к наполнению"
+
+#~ msgid "Select list"
+#~ msgstr "Список SELECT"
+
+#~ msgid "Checkbox"
+#~ msgstr "Чекбокс"
+
+#~ msgid "Radio Button"
+#~ msgstr "Радио Кнопки"
+
+#~ msgid "Input field text"
+#~ msgstr "Текстовое поле"
+
+#~ msgid "Hidden field"
+#~ msgstr "Скрытое поле"
+
+#~ msgid ""
+#~ "Your browser does not support JavaScript, plug-in will not work correctly."
+#~ msgstr ""
+#~ "Ваш браузер не поддерживает JavaScript, плагин не будет работать "
+#~ "корректно."
+
+#~ msgid "Add a Text Block"
+#~ msgstr "Добавить текстовой блок"
+
+#~ msgid "Add a Select List"
+#~ msgstr "Добавить список SELECT"
+
+#~ msgid "Add Checkbox"
+#~ msgstr "Добавить Чекбокс"
+
+#~ msgid "Add a Radio Button"
+#~ msgstr "Добавить Radio кнопку"
+
+#~ msgid "Add a Input field text"
+#~ msgstr "Добавить текстовое поле"
+
+#~ msgid "Add a Hidden field"
+#~ msgstr "Добавить скрытое поле"
+
+#~ msgid "Customize Design"
+#~ msgstr "Настройка дизайна"
+
+#~ msgid "None design"
+#~ msgstr "Без дизайна"
+
+#~ msgid "Sceleton"
+#~ msgstr "Скелет"
+
+#~ msgid "At what E-Mail to send a request"
+#~ msgstr "На какой E-Mail отправлять письмо"
+
+#~ msgid "Field Name Last Name"
+#~ msgstr "Поле Имя Фамилия"
+
+#~ msgid "Field Contact E-Mail"
+#~ msgstr "Поле контактный E-Mail"
+
+#~ msgid "Field Contact Phone"
+#~ msgstr "Поле контактный телефон"
+
+#~ msgid "Error: can not put a name"
+#~ msgstr "Ошибка: Не ввели имя"
+
+#~ msgid "Error: The long name"
+#~ msgstr "Ошибка: Длинное имя"
+
+#~ msgid "Error: not entered Email"
+#~ msgstr "Ошибка: Не ввели Email"
+
+#~ msgid "Error: Incorrect phone"
+#~ msgstr "Ошибка: Не корректный телефон"
+
+#~ msgid "Error: The longest phone"
+#~ msgstr "Ошибка: Длинный телефон"
+
+#~ msgid "Error: long comment"
+#~ msgstr "Ошибка: Длинный комментарий"
+
+#~ msgid "The name of the button"
+#~ msgstr "Название кнопки"
+
+#~ msgid "AJAX calculations?"
+#~ msgstr "Включить AJAX калькулятор?"
+
+#~ msgid "without rebooting"
+#~ msgstr "без перезагрузки страниц"
+
+#~ msgid "Remember the selected data"
+#~ msgstr "Запоминать выбранные данные в форме"
+
+#~ msgid "Connect Jquery"
+#~ msgstr "Подключить jQuery"
+
+#~ msgid "Start $ _SESSION"
+#~ msgstr "Стартовать $_SESSION"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Email"
+#~ msgstr "Email"
